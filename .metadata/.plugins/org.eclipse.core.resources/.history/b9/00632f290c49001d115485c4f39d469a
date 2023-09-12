@@ -1,0 +1,11 @@
+package com.misiontic.apimedicina1.entidades;
+
+public class Snippet {
+	spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+	 
+	spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
+	spring.jpa.show-sql=true
+	spring.jpa.hibernate.ddl-auto=none
+	logging.level.org.hibernate.SQL=debug
+}
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.misiontic.entidades.agendaCitas"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="org.hibernate.type.LocaleType"/>
+    <fullyQualifiedTypeName name="java.time.LocalTime"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="org.apache.el.parser.AstFalse"/>
+</qualifiedTypeNameHistroy>

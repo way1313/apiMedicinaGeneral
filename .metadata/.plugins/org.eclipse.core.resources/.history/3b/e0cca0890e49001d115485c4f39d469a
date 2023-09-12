@@ -1,0 +1,14 @@
+package com.misiontic.entidades;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Medico {
+
+	private long idMedico;
+	private String nombreMedico;
+
+	public Medico() {
+	}
+
+}
